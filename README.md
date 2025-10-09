@@ -32,7 +32,7 @@ git clone https://github.com/khdxsohee/Modern-Button-Kit.git
 - Create a style.css file in your project and paste all the CSS into it, then link it in your HTML:
 
 ```
-<link rel="stylesheet" href="path/to/your/style.css">
+<link rel="stylesheet" href="path/to/your/style.css"> 
 ```
 - Add the HTML:
 - Browse through the modern-button-kit.html file (or your copied buttons.html file) in this repository. Find the button you want, copy its <button> tag, and paste it into your HTML where you want the button to appear.
