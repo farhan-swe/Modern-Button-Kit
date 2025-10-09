@@ -10,7 +10,7 @@ A comprehensive collection of beautifully designed, modern CSS "Download" button
 
 ## ✨ Features
 - 50+ Unique Styles: A wide array of modern button designs, from minimalist to vibrant gradients, frosted glass, and playful shapes.
-- Pure CSS: No JavaScript dependencies, just clean, efficient CSS.
+- Pure CSS: No JavaScript dependencies, just clean, efficient CSS. 
 - Easy to Use: Simply copy the HTML and CSS for the button you like.
 - Modern Aesthetics: Designed with contemporary UI trends in mind.
 - Hover Effects: Each button comes with a unique, smooth hover transition.
